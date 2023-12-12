@@ -8,7 +8,6 @@ Before you begin, ensure you have met the following requirements:
 
 * You have installed the latest version of [Node.js and npm](https://nodejs.org/en/download/).
 * You have installed [Yarn](https://yarnpkg.com/getting-started/install).
-* You have a `<Windows/Linux/Mac>` machine. State here which OSes are supported and which are not.
 
 ## Installing TentUI
 
